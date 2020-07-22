@@ -1,7 +1,9 @@
 ## Template ES6
-
 - Zainstaluj [NODEJS](https://nodejs.org/en/)
-- Zainstaluj `npm i`
+- zainstalij degit `npm i degit -g`
+- pobierz używająć `degit quarticon/template folder_docelowy`
+- `cd folder_docelowy`
+- Zainstaluj zależności `npm i`
 - Sprawdz czy masz zainstalowanego Eslinta i Prettier globalnie za pomocą `npm list -g --depth 0`
 - * Jeśli nie masz to: `npm i -g prettier`
 - * Jeśli nie masz to: `npm i -g eslint`
